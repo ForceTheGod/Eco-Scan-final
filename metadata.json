@@ -1,0 +1,7 @@
+{
+  "name": "EcoScan AI: Smart Waste Classifier",
+  "description": "A high-performance, client-side waste classification app using TensorFlow.js and MobileNet to identify recyclables and provide disposal guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
