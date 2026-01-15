@@ -15,7 +15,7 @@ const LoadingScreen: React.FC<LoadingScreenProps> = ({ progress }) => {
           <i className="fas fa-brain text-green-600 text-3xl absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"></i>
         </div>
         <h2 className="text-xl font-bold text-slate-800 mb-2">Loading AI Model...</h2>
-        <p className="text-slate-500 mb-6 text-sm">Initializing TensorFlow.js for on-device inference.</p>
+        <p className="text-slate-500 mb-6 text-sm">Initializing AI model for on-device inference.</p>
         
         <div className="w-full bg-slate-100 rounded-full h-2 mb-2">
           <div 
