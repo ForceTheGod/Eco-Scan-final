@@ -1,4 +1,4 @@
-#EcoScan AI
+# EcoScan AI
 
 **EcoScan AI** is a web application that lets you upload images or use your device camera for real-time scanning to detect the type of waste and provide **proper disposal instructions**.
 
@@ -8,7 +8,7 @@ By helping users make the right decision *before throwing the trash*, EcoScan AI
 
 ---
 
-##Features
+## Features
 
 -  Upload images to classify waste  
 -  Real-time camera-based waste detection  
