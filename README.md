@@ -17,7 +17,7 @@ By helping users make the right decision *before throwing the trash*, EcoScan AI
 -  Encourages sustainable and responsible waste management  
 
 ---
-Demo for realtime scanning and image upload detection
+## Demo for realtime scanning and image upload detection
 <img width="1920" height="1080" alt="Screenshot 2026-01-16 17 55 26" src="https://github.com/user-attachments/assets/f6223910-0273-476c-82b7-be458625c9de" />
 <img width="1920" height="1080" alt="Screenshot 2026-01-16 17 55 40" src="https://github.com/user-attachments/assets/eb738f28-7a4f-475a-94b1-2ae09bc0f894" />
 <img width="1920" height="1080" alt="Screenshot 2026-01-16 17 56 00" src="https://github.com/user-attachments/assets/21b41435-a8ba-4ecd-b579-0b2fd7ffcf57" />
